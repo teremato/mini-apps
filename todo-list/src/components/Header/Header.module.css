@@ -1,0 +1,17 @@
+.header {
+    width: 100%;
+
+    padding: 10px;
+
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+    background: linear-gradient(to right, rgb(92, 83, 194),rgb(188, 22, 203));
+}
+.name {
+    text-align: center;
+
+    font-size: 30px;
+    font-weight: 700;
+    color: white;
+}

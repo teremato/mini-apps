@@ -1,0 +1,27 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 7px;
+}
+.btn {
+    text-transform: uppercase;
+
+    font-size: 13px;
+
+    width: 150px;
+    border: none;
+
+    background-color: rgb(92, 83, 194);
+    color: white;
+
+    transition: background-color .2s ease;
+}
+.up_btn {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+.down_btn {
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
